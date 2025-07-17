@@ -1,12 +1,11 @@
-# 🌍 QuakeSight: Integrated Earthquake Risk Analytics Framework
-
+# 🌍 QuakeSight: An End-to-End Analytics Framework for Earthquake Risk Mitigation
+An end-to-end analytics framework for real-time earthquake prediction, risk assessment, and disaster mitigation using machine learning and geospatial intelligence.
 [![Python](https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Powered%20By-XGBoost-green?style=for-the-badge&logo=xgboost)](https://xgboost.readthedocs.io/)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)]
 
-An end-to-end analytics framework for real-time earthquake prediction, risk assessment, and disaster mitigation using machine learning and geospatial intelligence.
-# 🌍 QuakeSight: An End-to-End Analytics Framework for Earthquake Risk Mitigation
+
 
 **QuakeSight** is a comprehensive earthquake disaster management system that combines real-time data collection, machine learning-based prediction, and prescriptive analytics to forecast earthquake risks and guide proactive response planning. The framework integrates all four types of analytics — **Descriptive, Diagnostic, Predictive, and Prescriptive** — to enable informed decision-making using geospatial and temporal earthquake data.
 
